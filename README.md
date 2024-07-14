@@ -1,28 +1,13 @@
-# Konversi Suhu
+# Matrix and Sine
 
-Matix and Sine adalah software desktop berbahasa BASIC. Software ini ditujukan untuk menjalankan fitur hitung matriks 2x2 dan nilai sinus.
+Matrix and Sine is BASIC language desktop software. This software is intended to run the 2x2 matrix calculation feature and sine values.
 
+## Integration
+This system uses VB.NET
 
+## User Features
 
-## Integrasi
-Sistem ini menggunakan VB.NET
-
-
-## Fitur Pengguna
-
-- Perhitungan sederhana
-
-
-
-
-## Fitur Sistem
-
-- BASIC
-
-
-## Optimalisasi
-
--
+- Simple Calculations
 
 ## Run Locally
 
@@ -39,6 +24,6 @@ Clone the project
 ![App Screenshot](https://i.ibb.co/ft6fdTb/image.png)
 
 
-## Saran
+## Suggestion
 
-Untuk saran dan masukan sistem ini harap berkenan email ke valleryan1212@gmail.com
+For suggestions and input on this system, please email valleryan1212@gmail.com
